@@ -9,3 +9,5 @@ https://jawspankration2024.jaws-ug.jp/ja/timetable/TT-67/
 # Demos
 - Lab 1: Application project of zipped all dependencies for Lambda
 - Lab 2: Application project which uses Lambda Layers for dependencies
+- Lab 3: Application project which uses container runtime same as Lab 1
+- Lab 4: Application project which uses Lambda Web Adapter for Lambda
