@@ -1,5 +1,5 @@
 {
-  "name": "lab1_zip",
+  "name": "lab1-zip",
   "version": "1.0.0",
   "description": "A sample AWS Lambda function for run Express zip deploy pattern",
   "main": "index.js",
