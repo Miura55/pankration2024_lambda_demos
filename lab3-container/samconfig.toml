@@ -19,7 +19,6 @@ confirm_changeset = true
 resolve_s3 = true
 s3_prefix = "lab3-container"
 region = "ap-northeast-1"
-image_repositories = ["Lab3Function=992382509042.dkr.ecr.ap-northeast-1.amazonaws.com/lab3container18681910/lab3functionab958174repo"]
 
 [default.package.parameters]
 resolve_s3 = true
